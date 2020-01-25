@@ -32,3 +32,5 @@
 # Tags
 
 # Hooks
+
+- https://www.baeldung.com/cucumber-scenario-outline
