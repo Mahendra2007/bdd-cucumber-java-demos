@@ -34,3 +34,4 @@
 # Hooks
 
 - https://www.baeldung.com/cucumber-scenario-outline
+- https://www.tutorialspoint.com/behavior_driven_development/behavior_driven_development_gherkin.htm
